@@ -1,0 +1,10 @@
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\AgendaMongoDB.exe.config
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\AgendaMongoDB.exe
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\AgendaMongoDB.pdb
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\MongoDB.Bson.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\MongoDB.Driver.dll
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\MongoDB.Bson.xml
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\bin\Debug\MongoDB.Driver.xml
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\obj\Debug\AgendaMongoDB.exe
+c:\users\wanderson\documents\visual studio 2015\Projects\AgendaMongoDB\AgendaMongoDB\obj\Debug\AgendaMongoDB.pdb
